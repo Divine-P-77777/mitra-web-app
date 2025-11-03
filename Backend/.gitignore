@@ -1,0 +1,6 @@
+# File: .gitignore
+node_modules/
+dist/
+.env
+.vscode/
+coverage/
